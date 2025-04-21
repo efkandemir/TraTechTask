@@ -1,0 +1,16 @@
+export const SYMBOL_ITEMS = [
+  { label: 'BTC/USD', value: 'BTC/USD' },
+  { label: 'ETH/USD', value: 'ETH/USD' },
+  { label: 'XRP/USD', value: 'XRP/USD' },
+  { label: 'LTC/USD', value: 'LTC/USD' },
+  { label: 'BCH/USD', value: 'BCH/USD' },
+  { label: 'ADA/USD', value: 'ADA/USD' },
+  { label: 'SOL/USD', value: 'SOL/USD' },
+  { label: 'DOGE/USD', value: 'DOGE/USD' },
+  { label: 'MATIC/USD', value: 'MATIC/USD' },
+  { label: 'DOT/USD', value: 'DOT/USD' },
+  { label: 'LINK/USD', value: 'LINK/USD' },
+  { label: 'TRX/USD', value: 'TRX/USD' },
+  { label: 'EOS/USD', value: 'EOS/USD' },
+  { label: 'BNB/USD', value: 'BNB/USD' },
+];
